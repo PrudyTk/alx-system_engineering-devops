@@ -1,0 +1,6 @@
+#!/bin/bash
+<<<<<<< HEAD:0x01-shell_permissions/0-iam_betty
+su betty
+=======
+pwd
+>>>>>>> 1620beda2a935a4ce923a76eaf424d974074ad00:0x00-shell_basics/0-current_working_directory
